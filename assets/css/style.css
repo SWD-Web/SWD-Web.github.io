@@ -744,6 +744,7 @@ section {
 
 #features .feature-block img {
   height: 60px;
+  margin-bottom: 30px;
   width: 60px;
 }
 
@@ -1441,13 +1442,4 @@ section {
 .footer .copyrights .credits a {
   letter-spacing: 0;
   color: #71c55d;
-}
-
-
-/* for fun */
-.shazam h4{
-  font-size: 18px;
-}
-.shazam p{
-  font-size: 22px;
 }

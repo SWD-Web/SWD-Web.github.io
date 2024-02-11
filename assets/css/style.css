@@ -1443,3 +1443,16 @@ section {
   letter-spacing: 0;
   color: #71c55d;
 }
+
+
+.shazam p {
+  font-size: 18px;
+}
+
+.shazam h4 {
+  font-size: 22px;
+}
+
+.man p{
+  font-size: 25px;
+}
